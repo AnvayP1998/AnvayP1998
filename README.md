@@ -1,7 +1,7 @@
 # Hi, I'm Anvay 👋
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/penguin-data-coding-animation-sxihbi0j123pp3uv.gif" width="380" alt="Anvay profile picture" />
+  <img src="https://gifdb.com/images/high/penguin-data-coding-animation-sxihbi0j123pp3uv.gif" width="500" alt="Anvay profile picture" />
 </p>
 
 I build scalable software products and systems with a focus on backend architecture, APIs, distributed systems, cloud infrastructure, and developer experience. I work across full-stack development, system design, and production engineering to deliver reliable, high-impact solutions.
