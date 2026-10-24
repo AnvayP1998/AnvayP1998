@@ -63,8 +63,3 @@ I enjoy solving complex problems, improving developer workflows, and creating so
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnvayP1998&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-## Connect
-
-- [LinkedIn](https://linkedin.com/in/anvayparalikar)
-- [Portfolio](https://anvayportfolio.vercel.app/)
-- [GitHub](https://github.com/AnvayP1998)
